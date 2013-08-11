@@ -1,0 +1,11 @@
+{
+  "name": "typescript-study",
+  "version": "0.0.0",
+  "description": "",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-typescript": "~0.2.2",
+    "grunt-contrib-uglify": "~0.2.2"
+  }
+}
